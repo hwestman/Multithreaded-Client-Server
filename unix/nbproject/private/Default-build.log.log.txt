@@ -1,0 +1,6 @@
+cc -g -std=c++0x -c main.cpp -c
+cc -g -std=c++0x -c Client.cpp -c
+cc -g -std=c++0x -c Server.cpp -c
+cc -g -std=c++0x -c Init.cpp -c
+cc -g -std=c++0x -c SemLock.cpp -c
+g++ -g -std=c++0x main.o Client.o Server.o Init.o SemLock.o -o program

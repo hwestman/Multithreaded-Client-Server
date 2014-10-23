@@ -1,0 +1,142 @@
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	main.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	main.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Client.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Client.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Server.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Server.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Init.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	Init.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	SemLock.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+	-g
+	-std=c++0x
+	-c
+	SemLock.cpp
+	-c
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-g
+	-std=c++0x
+	main.o
+	Client.o
+	Server.o
+	Init.o
+	SemLock.o
+	-o
+	program
+
+called: /Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/usr/bin/g++
+	-g
+	-std=c++0x
+	main.o
+	Client.o
+	Server.o
+	Init.o
+	SemLock.o
+	-o
+	program
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-g
+	-std=c++0x
+	main.o
+	Client.o
+	Server.o
+	Init.o
+	SemLock.o
+	-o
+	program
+
+called: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	/Users/hwestman/VM/eddie_shared/sys_prog_repo/assignment_2/unix
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+	-g
+	-std=c++0x
+	main.o
+	Client.o
+	Server.o
+	Init.o
+	SemLock.o
+	-o
+	program
+
