@@ -6,7 +6,6 @@ In this implementation the client takes int's from a a keyboard input and reques
 
 _All results are returned async to the client._
 
-```
-make
-./program <size of thread pool
-```
+
+`make`
+`./program <size of thread pool`
