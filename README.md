@@ -9,4 +9,4 @@ _All results are returned async to the client._
 
 `make`
 
-`./program <size of thread pool`
+`./program <size of thread pool>`
